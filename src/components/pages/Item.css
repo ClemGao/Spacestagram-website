@@ -1,0 +1,63 @@
+.specific__item__details{
+    position:relative;
+    text-align: center;
+    margin-top: 2em;
+
+}
+.item__img{
+    
+    margin: 0 -100%;
+    width: 85%;
+    height: 85%;
+    vertical-align: top;
+
+}
+.item__img:hover{
+    transform: scale(1.05);
+    transition: 0.2s ease-in-out;
+}
+
+.item__explaination{
+    margin-left: 10%;
+    margin-right: 10%;
+    font-size: 1vw;
+    text-shadow: 2px 2px 5px black;
+    text-indent: 50px;
+    text-align: justify;
+}
+
+.likeBtn{
+    position: absolute;
+    bottom: 5%;
+    right: 5%;
+    font-size: 2em;
+    user-select:none
+}
+
+p{
+    font-family: Apple LiGothic Medium;
+}
+
+.info{
+    opacity: 0;
+    position: absolute;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, .3);
+    color: white;
+    font-size: 22px;
+    width: 85%;
+    height: 100%;
+    margin-left: 7.5%;
+    top: 0;
+}
+
+.info:hover{
+    opacity: 1;
+    transition: opacity 0.8s;
+}
+
+
+
