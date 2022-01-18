@@ -10,7 +10,7 @@ function App() {
       <Router>
         <Navbar />
         <Routes>
-          <Route path='/' element={<Homepage />} />
+          <Route path='/Spacestagram-website' element={<Homepage />} />
         </Routes>
       </Router>
     </>
