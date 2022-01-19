@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Spacestagram-website/static/css/main.1d36e31d.css",
+    "main.js": "/Spacestagram-website/static/js/main.507ff3e7.js",
+    "index.html": "/Spacestagram-website/index.html",
+    "main.1d36e31d.css.map": "/Spacestagram-website/static/css/main.1d36e31d.css.map",
+    "main.507ff3e7.js.map": "/Spacestagram-website/static/js/main.507ff3e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d36e31d.css",
+    "static/js/main.507ff3e7.js"
+  ]
+}
