@@ -1,13 +1,13 @@
 # Exploring the Cosmo by Spacestagram
-##:tw-1f320: Demo
+## Demo
 [![demo1](https://raw.githubusercontent.com/ClemGao/Spacestagram-website/main/src/imgs/Screenshot01.jpg "demo1")](https://raw.githubusercontent.com/ClemGao/Spacestagram-website/main/src/imgs/Screenshot01.jpg "demo1")
 
-##:tw-2728: Features
+##:sparkles: Features
 - Flexible Banner
 - Variable contents from Nasa. APIs
 - Likes
 
-##:tw-1f527: Under Construction
+##:construction: Under Construction
 - Flexible layout for content boxes
 - New page saving liked contents
 - Auto-loading the page (like Twitter)
