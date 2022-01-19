@@ -2,12 +2,12 @@
 ## Demo
 [![demo1](https://raw.githubusercontent.com/ClemGao/Spacestagram-website/main/src/imgs/Screenshot01.jpg "demo1")](https://raw.githubusercontent.com/ClemGao/Spacestagram-website/main/src/imgs/Screenshot01.jpg "demo1")
 
-##:sparkles: Features
+## :sparkles: Features
 - Flexible Banner
 - Variable contents from Nasa. APIs
 - Likes
 
-##:construction: Under Construction
+## :construction: Under Construction
 - Flexible layout for content boxes
 - New page saving liked contents
 - Auto-loading the page (like Twitter)
