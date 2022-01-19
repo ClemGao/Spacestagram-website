@@ -1,21 +1,3 @@
-# Exploring the galaxy by Spacestagram
-## Demo
-
-## Visit the Website Now
-
-## :tw-2728: Functions
-
-- A Flexible layout for banner
-- Fetched imgs and texts by the Nasa. APIs
-- Likes function
-
-## :tw-1f527: Under Construction
-
-- Flexible layout for all contents
-- A new page for checking which imgs clicked like
-- Auto Loading the contents when scanning (like reddit)
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
