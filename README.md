@@ -1,5 +1,5 @@
 # Exploring the Cosmo by Spacestagram
-## Demo
+## :rocket: Demo
 [![demo1](https://raw.githubusercontent.com/ClemGao/Spacestagram-website/main/src/imgs/Screenshot01.jpg "demo1")](https://raw.githubusercontent.com/ClemGao/Spacestagram-website/main/src/imgs/Screenshot01.jpg "demo1")
 Website: https://clemgao.github.io/Spacestagram-website/
 
