@@ -31,7 +31,7 @@ function Navbar() {
         <>
             <div className="navbar">
                 <div className="navbar-container container">
-                    <Link to='/'
+                    <Link to='/Spacestagram-website'
                         className="navbar-logo">
                         <GiGalaxy className='navbar-icon' />
                         Spacestagram
@@ -41,7 +41,7 @@ function Navbar() {
                     </div>
                     <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                         <li className='nav-item'>
-                            <Link to='/' className='nav-links'>
+                            <Link to='/Spacestagram-website' className='nav-links'>
                                 Home
                             </Link>
                         </li>
